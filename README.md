@@ -1,8 +1,3 @@
-# MACHIN3shaders
-
-A collection of shaders facilitating a deferred decal workflow in Unity3D 
-
-
 # Acknowledgement 
 
 These shaders would not have been possible without the pioneering work of Artyom Zuev, who has [graciously shared](https://bitbucket.org/bac9/shading/overview) his own decal shaders,
