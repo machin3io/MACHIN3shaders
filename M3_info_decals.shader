@@ -15,6 +15,7 @@
 	SubShader 
 	{
         // TODO: invert mask
+        // TODO: add bump based on alpha
 
         Tags {"Queue"="AlphaTest" "IgnoreProjector"="True" "RenderType"="Opaque" "ForceNoShadowCasting"="True"}
 		LOD 300
