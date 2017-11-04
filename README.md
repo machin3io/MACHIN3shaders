@@ -6,4 +6,4 @@ as well as [documented his process](https://forum.unity3d.com/threads/how-do-i-w
 # Resources
 
 * [My shader for pre-modeled deferred decals finally works...](https://www.reddit.com/r/Unity3D/comments/3mtox7/my_shader_for_premodeled_deferred_decals_finally/) by Artyom Zuev on reddit
-* [Decal Technique from Star Citizen](http://polycount.com/discussion/155894/decal-technique-from-star-citizen#latest) on [polycount.com](polycount.com)
+* [Decal Technique from Star Citizen](http://polycount.com/discussion/155894/decal-technique-from-star-citizen#latest) on polycount.com
